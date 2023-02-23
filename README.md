@@ -1,2 +1,2 @@
 ## TEAMWORK PROJECT:
-RE-CREATING SIMPLE SHELL WITH PAUL!
+Re-creating Simple Shell functions with Nana Mbrah Nyanney!
